@@ -1,0 +1,23 @@
+
+📄 BookBazaar SQL Query Challenges
+
+Basic:
+1. Books with price > 400
+2. Customers who placed orders
+3. Orders with customer names
+4. Items in order 1
+5. Reviews for 'Atomic Habits'
+
+Intermediate:
+6. Total spent per customer
+7. Top 3 rated books
+8. Total books sold per title
+9. Stock left after purchases
+10. Customers who gave rating < 4
+
+Advanced:
+11. Most purchased book
+12. Top-spending customer
+13. Unsold books
+14. Revenue by genre
+15. View: customer_summary
